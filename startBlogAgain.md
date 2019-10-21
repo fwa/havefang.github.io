@@ -1,4 +1,4 @@
-#  Get start bloging the n+1 time
+#  Get start blogging the n+1 times
 
 ```
 # download remote blog github to local PC
@@ -8,7 +8,7 @@ cd havefang.github.io
 # write a file startBlogAgain.md
 
 # push to github
-git add starrBlogAgian.md
-git commit -m "get back to bloging the n+1 time"
+git add startBlogAgian.md
+git commit -m "get start bloging the n+1 time"
 git push origin master
 ```
